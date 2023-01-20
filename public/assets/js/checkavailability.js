@@ -1,0 +1,1 @@
+function checkavailability(){$(".availability").addClass("show"),document.getElementById("btns").style.display="none",$("#dropdown1").addClass("dropdownW"),$("#dropdown2").addClass("dropdownW"),document.getElementById("loading").style.display="block",$("#check").addClass("checking")}
